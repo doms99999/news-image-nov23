@@ -8,7 +8,7 @@ One image summing up the world news of Monday 23 November 2026, made for make.fu
 - **Mercury orbit reached** — BepiColombo enters orbit around Mercury after an eight-year journey.
 - **AI sell-off deepens** — Asian tech shares slide as the AI-driven Nasdaq sell-off widens; euro-area inflation prints 4.0%.
 
-The masthead names the day, as the brief asks. The program is a one-purpose `main.ts` that copies the committed `entry.png` to `/output/entry.png`.
+The masthead names the day, as the brief asks, and the footer carries the make.fun lockup from the official press kit. The program is a one-purpose `main.ts` that copies the committed `entry.png` to `/output/entry.png`.
 
 [![make.fun bounty](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123)
 [![rank](https://make.fun/badge/news-image-20261123/doms99999/news-image-nov23/rank.svg)](https://make.fun/bounty/news-image-20261123)
